@@ -1,0 +1,23 @@
+.product-img{
+    width: 260px;
+    height: auto;
+}
+
+.product-card{
+    width: 260px;
+    padding: 10px;
+    border-radius: 4px;
+    margin: 20px;
+    float: left;
+    border:1px solid #1a6600;
+}
+
+.categories{
+    font-size:14px;
+    font-weight:400;
+    color:gray;
+}
+.product-title{
+    font-size:16px;
+    color:grey;
+}

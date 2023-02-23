@@ -1,0 +1,21 @@
+[{
+    "id":1,
+    "image":"https://cdn.shopify.com/s/files/1/0044/1208/0217/products/MCLAYMONSHUCABCWN-Open_800x.jpg?v=1665118844",
+    "name":"Executive Chair Styles and Exclusive for smart Office",
+    "price":"150",
+    "category":"furniture"
+},
+{
+    "id":2,
+    "image":"https://cdn.shopify.com/s/files/1/0044/1208/0217/products/MRIVAKBNWG_07_2000x.jpg?v=1635146913",
+    "name":"Executive Chair Styles and Exclusive for smart Office",
+    "price":"225",
+    "category":"bed"
+},
+{
+    "id":3,
+    "image":"https://ik.imagekit.io/durian1985/Durian/durian/product/800x800/product_2022100615051665068750_38969.jpg?tr=w-1200,q-100,lo-true,pr-true",
+    "name":"Executive Chair Styles and Exclusive for smart Office",
+    "price":"299",
+    "category":"sofa"
+}]
